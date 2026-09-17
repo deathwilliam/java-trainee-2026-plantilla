@@ -58,6 +58,30 @@ Dentro de cada semana, una carpeta por sesión: `sesion-03/`, `sesion-04/`…
 
 ---
 
+## Qué se revisa, y cuándo
+
+Cada entrega tiene una **hora de corte**. Lo que esté subido en ese momento es tu entrega.
+
+Git guarda la fecha y la hora exactas de cada commit. No es algo que se configure ni que se
+pueda cambiar: viene con cada cosa que guardás. Así que al revisar se mira tu repositorio
+**como estaba a la hora del corte**, y lo que suba después queda con su propia hora.
+
+> **Podés seguir trabajando después de la fecha, y está bien que lo hagas.** Si un ejercicio te
+> quedó picando y lo terminás el jueves, subilo: es tuyo y te sirve a vos.
+>
+> Lo único que no cambia es la entrega. **Arreglarla después no la mejora** — porque la hora
+> queda registrada. Sabiendo eso, no tiene sentido correr a último momento: conviene subir lo
+> que tengas a tiempo, aunque esté a medias.
+
+Al cerrar cada entrega se marca ese punto del historial con una etiqueta, así queda guardado
+para siempre:
+
+```
+entrega-semana-02    ← la foto exacta de tu repositorio al cierre
+```
+
+---
+
 ## Si no compila, subilo igual
 
 En serio. **No borres el código roto para que se vea mejor.**
